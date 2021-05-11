@@ -22,6 +22,10 @@ You can test RL environment `gym_gridworld` by running
 python test.py
 ```
 
+## Acknowledgement
+
+The code of `gym_gridworld` is based on [Xinlei Pan's Repository](https://github.com/xinleipan/gym-gridworld). Thanks!
+
 ## How To Contribute
 
 Contributions are always welcome, either reporting issues/bugs or forking the repository and then issuing pull requests when you have completed some additional coding that you feel will be beneficial to the main project. If you are interested in contributing in a more dedicated capacity, then please contact me.
